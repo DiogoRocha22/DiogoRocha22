@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou desenvolvedor front-end há um ano. <br>🌱 Atualmente estou fazendo faculdade de Engenharia de Software<br><br>👀Estou a procura de oportunidades na área de desenvolvimento front-end.<br><br>😎Estou sempre em busca de ser cada vez melhor, adoro aprender coisas novas e ajudar outras pessoas.<br> <br>🤔Um bom desenvolvedor está em constante "Desenvolvimento".<br>
+Sou desenvolvedor front-end há um ano. <br>🌱 Atualmente estou fazendo faculdade de Engenharia de Software na Universidade de Valença UNIFAA<br><br>👀Estou a procura de oportunidades na área de desenvolvimento front-end.<br><br>😎Estou sempre em busca de ser cada vez melhor, adoro aprender coisas novas e ajudar outras pessoas.<br> <br>🤔Um bom desenvolvedor está em constante "Desenvolvimento".<br>
 
 
 ## 🌐 Socials:
