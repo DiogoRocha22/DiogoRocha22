@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou desenvolvedor front-end há dois anos. <br>🌱 Atualmente estou fazendo faculdade de Engenharia de Software na Universidade de Valença UNIFAA<br>😎 Estou sempre em busca de ser cada vez melhor, adoro aprender coisas novas e ajudar outras pessoas.<br>🤔 Um bom desenvolvedor está em constante "Desenvolvimento".
+Sou desenvolvedor front-end há dois anos. <br>🌱 Atualmente estou fazendo faculdade de Engenharia de Software na Universidade de Valença UNIFAA<br> Estou sempre em busca de ser cada vez melhor, adoro aprender coisas novas e ajudar outras pessoas.<br> Um bom desenvolvedor está em constante "Desenvolvimento".
 
 
 ## 🌐 Socials:
