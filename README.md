@@ -3,11 +3,11 @@
 Sou desenvolvedor há dois anos, criando soluções escaláveis e eficientes. Sempre buscando aprender e evoluir, pois um bom dev está em constante **"desenvolvimento"**.  
 
 ## 🚀 Tecnologias que uso  
-- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS  
-- **Backend:** Node.js, NestJS, Spring Boot, Python  
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Bootstrap, Vite 
+- **Backend:** Node.js, Express.js
 - **Banco de Dados:** PostgreSQL, MongoDB, Firebase  
-- **Testes & Automação:** Playwright, Cypress  
-- **Outros:** PWA, Docker, Git, CI/CD  
+- **Testes & Automação:** Playwright, Jest  
+- **Outros:** PWA, Docker, Git, CI/CD 
 
 ## 🎯 Objetivos  
 🔹 **Ser um profissional de alto nível**, dominando as melhores práticas do mercado e entregando soluções excepcionais.  
