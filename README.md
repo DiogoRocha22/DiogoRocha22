@@ -9,13 +9,6 @@ Sou desenvolvedor há dois anos, criando soluções escaláveis e eficientes. Se
 - **Testes & Automação:** Playwright, Jest  
 - **Outros:** PWA, Docker, Git, CI/CD 
 
-## 🎯 Objetivos  
-🔹 **Ser um profissional de alto nível**, dominando as melhores práticas do mercado e entregando soluções excepcionais.  
-🔹 **Construir uma base sólida de clientes**, oferecendo serviços de alta qualidade e conquistando reconhecimento na área.  
-🔹 **Gerar impacto no setor de tecnologia**, criando projetos inovadores que realmente fazem a diferença.  
-🔹 **Expandir minha atuação**, trabalhando com grandes empresas como **iFood, Mercado Livre, Nubank** e alcançando oportunidades internacionais.  
-🔹 **Aprimorar minhas habilidades continuamente**, sempre me desafiando a ser melhor e a acompanhar as evoluções do mercado.  
-
 ## 📫 Onde me encontrar  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diogo-rocha-361281256)
